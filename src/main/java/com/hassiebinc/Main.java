@@ -10,7 +10,9 @@ public class Main {
 
         // System.out.println("");
 
-        System.out.println("Don't forget to track your distance with the fitness app.");
+        System.out.println("Don't forget to track your distance with the fitness app.\n");
+
+        System.out.println("Remember to try out LeetCode question today!");
 
 
     }
